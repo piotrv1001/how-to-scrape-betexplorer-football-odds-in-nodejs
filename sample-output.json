@@ -1,0 +1,25 @@
+[
+  {
+    "matchId": "joCde00k",
+    "homeTeam": "Bournemouth",
+    "awayTeam": "Liverpool",
+    "score": "0:1",
+    "status": "FINISHED",
+    "averageOdds": { "1": 3.09, "X": 3.65, "2": 2.19 },
+    "odds": [
+      {
+        "market": "1X2",
+        "prices": [
+          {
+            "bookmaker": "1xBet",
+            "outcomes": [
+              { "label": "1", "odd": 3.34, "updatedAt": "2026-09-20T11:54:00.000Z" },
+              { "label": "X", "odd": 3.65, "updatedAt": "2026-09-20T11:48:00.000Z" },
+              { "label": "2", "odd": 2.14, "updatedAt": "2026-09-20T11:54:00.000Z" }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
