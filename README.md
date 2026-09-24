@@ -2,6 +2,10 @@
 
 This example calls our [BetExplorer Scraper](https://apify.com/piotrv1001/betexplorer-scraper) on Apify. It does not implement a scraper from scratch.
 
+![BetExplorer league dataset with match rows and average odds](./betexplorer_odds_results.png)
+
+The screenshot is from a larger league run, so it includes upcoming fixtures with missing scores. The code below requests one match.
+
 ## What this example does
 
 - Requests one match from the Premier League page with bookmaker odds enabled
@@ -81,6 +85,7 @@ items.forEach((item) => {
 ## Related resources
 
 - [How to export football odds from BetExplorer](https://www.falconscrape.com/blog/how-to-scrape-betexplorer-football-odds)
+- [Companion post hero artwork](./betexplorer_odds_blog.png)
 
 ## License
 
